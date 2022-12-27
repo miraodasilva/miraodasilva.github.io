@@ -9,7 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+My CV is displayed below. You can also download the pdf [here](/files/Professional_CV.pdf).
+<object data=
+"/files/Professional_CV.pdf" 
+                width="800" 
+                height="500"> 
+        </object>
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -48,12 +55,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+education
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.education %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

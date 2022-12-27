@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-GB"
+title                    : "Rodrigo Mira"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Rodrigo Mira"
+description              : &description "PhD student at Imperial College London"
+url                      : "https://miraodasilva.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Rodrigo Mira"
+  avatar           : "profile.jpeg"
+  bio              : "PhD student at Imperial College London"
+  #Hi, I'm a PhD student at Imperial College in the Department of Computing, supervised by Björn Schuller and Maja Pantic. I will be submitting my thesis and finishing my PhD in January 2022.
+  location         : "London, GB"
+  employer         : Imperial College London
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=08YfKjcAAAAJ&hl=pt-PT"
+  email            : "rs2517@ic.ac.uk"
+  researchgate     :  "https://www.researchgate.net/profile/Rodrigo_Mira3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +97,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "miraodasilva"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/rodrigo-mira-670bbb151/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-9493-3842"
+  reddit           : "MiraoDaSilva"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "RodrigomiraA"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "rodrigomiraai2111"
   wikipedia        :
 
 
@@ -175,16 +177,22 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  education:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  experience:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  online_presence:
+    output: true
+    permalink: /:collection/:path/
+  extra_curricular:
     output: true
     permalink: /:collection/:path/
 
@@ -209,10 +217,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _education
   - scope:
       path: ""
-      type: teaching
+      type: education
     values:
       layout: single
       author_profile: true
@@ -227,10 +235,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _experience
   - scope:
       path: ""
-      type: portfolio
+      type: experience
     values:
       layout: single
       author_profile: true
@@ -244,6 +252,23 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _online_presence
+  - scope:
+      path: ""
+      type: online_presence
+    values:
+      layout: online_presence
+      author_profile: true
+      share: true
+  # _extra_curricular
+  - scope:
+      path: ""
+      type: extra_curricular
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
@@ -255,7 +280,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
