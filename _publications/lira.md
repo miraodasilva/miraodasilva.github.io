@@ -1,5 +1,5 @@
 ---
-title: "LiRA: Learning visual speech representations from audio through self-supervision"
+title: "LiRA: Learning Visual Speech Representations from Audio through Self-Supervision"
 collection: publications
 permalink: /publications/lira
 venue: "Interspeech"
