@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I'm a PhD student at [Imperial College London](https://www.imperial.ac.uk/) in the Department of Computing, supervised by [Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and [Björn Schuller](http://www.schuller.one/) in [IBUG (Intelligent Behaviour Understanding Group)](https://ibug.doc.ic.ac.uk/). I will be submitting my thesis and finishing my PhD in January 2022. 
+👋 Hi, I'm a PhD student at [Imperial College London](https://www.imperial.ac.uk/) in the Department of Computing, supervised by [Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and [Björn Schuller](http://www.schuller.one/) in [IBUG (Intelligent Behaviour Understanding Group)](https://ibug.doc.ic.ac.uk/). I will be submitting my thesis and finishing my PhD in January 2023. 
 
 🖥️ I spent a substantial portion of my PhD interning and working at [Meta AI](https://ai.facebook.com/), where I collaborated with multiple teams and developed my PhD research. Details are available on the [Experience section](/experience/).
 
