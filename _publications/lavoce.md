@@ -2,9 +2,9 @@
 title: "LA-VocE: Low-SNR Audio-visual Speech Enhancement using Neural Vocoders"
 collection: publications
 permalink: /publications/lavoce
-venue: "arXiv (submitted to ICASSP 2023)"
+venue: "ICASSP"
 authors: "<b>Rodrigo Mira</b>, Buye Xu, Jacob Donley, Anurag Kumar, Stavros Petridis, Vamsi Krishna Ithapu, Maja Pantic"
-date: 2022-11-20
+date: 2023-06-04
 ---
 
 [[paper](https://arxiv.org/abs/2211.10999)] [[bib](/files/bib/lavoce.bib)]
