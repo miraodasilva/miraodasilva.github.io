@@ -1,5 +1,5 @@
 ---
-title: Reading Group Presentation - EnCodec: High Fidelity Neural Audio Compression
+title: Reading Group Presentation - EnCodec, High Fidelity Neural Audio Compression
 collection: talks
 type: "ASPARaGus Reading Group"
 permalink: /talks/asparagus-3
