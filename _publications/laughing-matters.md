@@ -3,7 +3,7 @@ title: "Laughing Matters: Introducing Laughing-Face Generation using Diffusion M
 collection: publications
 permalink: /publications/laughing_matters
 venue: "BMVC"
-authors: "Antoni Bigata Casademunt, <b>Rodrigo Mira<b>, Nikita Drobyshev, Konstantinos Vougioukas, Stavros Petridis, Maja Pantic"
+authors: "Antoni Bigata Casademunt, <b>Rodrigo Mira</b>, Nikita Drobyshev, Konstantinos Vougioukas, Stavros Petridis, Maja Pantic"
 date: 2023-08-30
 ---
 
