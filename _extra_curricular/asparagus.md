@@ -5,7 +5,7 @@ type: "Reading Group"
 permalink: /extra_curricular/asparagus
 venue: "Imperial College London"
 startdate: 2022-03-01
-date: 2023-01-31
+date: 2023-06-01
 location: "London, GB"
 ---
 
