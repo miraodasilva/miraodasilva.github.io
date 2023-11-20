@@ -9,6 +9,8 @@ date: 2023-07-01
 location: "London, GB"
 ---
 
+Working on generative modeling and self-supervised learning on audio-visual speech.
+
 ## Details
 Studied at Imperial College London from October 2019 to July 2023.
 ## Publications
