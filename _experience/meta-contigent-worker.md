@@ -1,7 +1,7 @@
 ---
-title: "Part-time Researcher at Meta AI"
+title: "Part-time Researcher at Meta"
 collection: experience
-type: "Pro Unlimited @ Meta AI"
+type: "Meta (via Pro Unlimited)"
 permalink: /experience/contingent
 venue: "Meta"
 startdate: 2022-03-01

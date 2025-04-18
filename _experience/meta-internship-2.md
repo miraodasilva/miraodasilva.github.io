@@ -1,5 +1,5 @@
 ---
-title: "Research Internship at Meta AI"
+title: "Research Internship at Meta"
 collection: experience
 type: "Research Internship"
 permalink: /experience/internship2

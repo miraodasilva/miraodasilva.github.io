@@ -1,5 +1,5 @@
 ---
-title: "Landmarks - Jazz Band at Meta AI"
+title: "Landmarks - Jazz Band at Meta"
 collection: extra_curricular
 type: ""
 permalink: /extra_curricular/meta_band
@@ -9,4 +9,4 @@ date: 2022-09-25
 location: "London, GB"
 ---
 
-Organized a Jazz band with my team at Meta AI named Landmarks, where I played bass every week.
+Organized a Jazz band with my team at Meta named Landmarks, where I played bass every week.
