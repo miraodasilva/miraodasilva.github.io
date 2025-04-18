@@ -5,6 +5,7 @@ permalink: /publications/braven
 venue: "ICASSP"
 authors: "Alexandros Haliassos and Andreas Zinonos (equal contribution), <b>Rodrigo Mira</b>, Stavros Petridis, Maja Pantic"
 date: 2024-04-14
+teaser: /files/teaser/braven.png
 ---
 
 [[paper](https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=6511)] [[code](https://github.com/ahaliassos/raven)] [[slides](https://sigport.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=9674)] [[bib](/files/bib/braven.bib)]

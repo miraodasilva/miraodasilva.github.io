@@ -5,6 +5,7 @@ permalink: /publications/peerj
 venue: "PeerJ Computer Science"
 authors: "<b>Rodrigo Mira</b>, Eduardo Coutinho, Emilia Parada-Cabaleiro, Björn W Schuller"
 date: 2023-05-15
+teaser: /files/teaser/peerj.png
 ---
 
 [[paper](https://peerj.com/articles/cs-1356/)] [[code](https://github.com/miraodasilva/GalicianXotaComposer)] [[bib](/files/bib/peerj.bib)]

@@ -5,6 +5,7 @@ permalink: /publications/rt-la-voce
 venue: "Interspeech"
 authors: "Honglie Chen and <b>Rodrigo Mira</b> (equal contribution), Stavros Petridis, Maja Pantic"
 date: 2024-09-01
+teaser: /files/teaser/rt-la-voce.png
 ---
 
 [[paper](https://www.isca-archive.org/interspeech_2024/chen24g_interspeech.pdf)] [[bib](/files/bib/rt-la-voce.bib)]

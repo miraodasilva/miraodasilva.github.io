@@ -5,6 +5,7 @@ permalink: /publications/endtoendvts
 venue: "IEEE Transactions on Cybernetics"
 authors: "<b>Rodrigo Mira</b>, Konstantinos Vougioukas, Pingchuan Ma, Stavros Petridis, Björn W Schuller, Maja Pantic"
 date: 2022-04-19
+teaser: /files/teaser/cybernetics.png
 ---
 
 [[project page](https://sites.google.com/view/video-to-speech/home)] [[paper](https://ieeexplore.ieee.org/document/9760273)] [[bib](/files/bib/end-to-end-vts.bib)]

@@ -7,7 +7,6 @@ authors: "Alexandros Haliassos, <b>Rodrigo Mira</b>, Honglie Chen, Zoe Landgraf,
 date: 2024-12-10
 teaser: /files/teaser/usr.png
 ---
-
 [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/fc69c48e41f7143e2e570f68c0b0951c-Paper-Conference.pdf)] [[code](https://github.com/ahaliassos/usr)] [[presentation](https://neurips.cc/virtual/2024/poster/93199)] [[bib](/files/bib/usr.bib)]
 
 ## Abstract

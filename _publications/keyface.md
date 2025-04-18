@@ -5,6 +5,7 @@ permalink: /publications/keyface
 venue: "CVPR"
 authors: "Antoni Bigata, Michał Stypułkowski, <b>Rodrigo Mira</b>, Stella Bounareli, Konstantinos Vougioukas, Zoe Landgraf, Nikita Drobyshev, Maciej Zieba, Stavros Petridis, Maja Pantic"
 date: 2025-06-11
+teaser: /files/teaser/keyface.png
 ---
 
 [[paper](https://arxiv.org/abs/2503.01715)] [[project page](https://antonibigata.github.io/KeyFace/)] [[code](https://github.com/antonibigata/keyface_cvpr)] [[bib](/files/bib/keyface.bib)]

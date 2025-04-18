@@ -5,6 +5,7 @@ permalink: /publications/realforensics
 venue: "CVPR"
 authors: "Alexandros Haliassos, <b>Rodrigo Mira</b>, Stavros Petridis, Maja Pantic"
 date: 2022-06-19
+teaser: /files/teaser/realforensics.png
 ---
 
 [[paper](https://arxiv.org/abs/2201.07131)] [[code](https://github.com/ahaliassos/RealForensics)] [[bib](/files/bib/realforensics.bib)]

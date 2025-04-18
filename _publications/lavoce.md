@@ -5,6 +5,7 @@ permalink: /publications/lavoce
 venue: "ICASSP"
 authors: "<b>Rodrigo Mira</b>, Buye Xu, Jacob Donley, Anurag Kumar, Stavros Petridis, Vamsi Krishna Ithapu, Maja Pantic"
 date: 2023-06-04
+teaser: /files/teaser/la-voce.png
 ---
 
 [[project page](https://sites.google.com/view/la-voce-avse)] [[paper](https://arxiv.org/abs/2211.10999)] [[bib](/files/bib/lavoce.bib)]

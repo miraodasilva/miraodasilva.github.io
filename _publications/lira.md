@@ -5,6 +5,7 @@ permalink: /publications/lira
 venue: "Interspeech"
 authors: "Pingchuan Ma and <b>Rodrigo Mira</b> (equal contribution), Stavros Petridis, Björn W. Schuller, Maja Pantic"
 date: 2021-08-30
+teaser: /files/teaser/lira.png
 ---
 
 [[paper](https://www.isca-speech.org/archive/interspeech_2021/ma21c_interspeech.html)] [[3-minute video introduction](https://www.superlectures.com/interspeech2021/lira-learning-visual-speech-representations-from-audio-through-self-supervision-3-minutes-introduction)] [[bib](/files/bib/lira.bib)]

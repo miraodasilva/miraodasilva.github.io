@@ -5,6 +5,7 @@ permalink: /publications/svts
 venue: "Interspeech"
 authors: "<b>Rodrigo Mira</b>, Alexandros Haliassos, Stavros Petridis, Björn W Schuller, Maja Pantic"
 date: 2022-08-18
+teaser: /files/teaser/svts.png
 ---
 
 [[project page](https://sites.google.com/view/scalable-vts)] [[paper](https://arxiv.org/abs/2205.02058)] [[bib](/files/bib/svts.bib)]

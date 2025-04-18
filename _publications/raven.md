@@ -5,6 +5,7 @@ permalink: /publications/raven
 venue: "ICLR"
 authors: "Alexandros Haliassos, Pingchuan Ma, <b>Rodrigo Mira</b>, Stavros Petridis, Maja Pantic"
 date: 2023-05-01
+teaser: /files/teaser/raven.png
 ---
 
 [[paper](https://arxiv.org/abs/2212.06246)] [[bib](/files/bib/raven.bib)]

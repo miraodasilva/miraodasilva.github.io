@@ -5,6 +5,7 @@ permalink: /publications/cse
 venue: "ICASSP"
 authors: "Minsu Kim and <b>Rodrigo Mira</b> (equal contribution), Honglie Chen, Stavros Petridis, Maja Pantic"
 date: 2025-04-07
+teaser: /files/teaser/cse.png
 ---
 
 [[paper](https://ieeexplore.ieee.org/document/10887655)] [[project page](https://miraodasilva.github.io/cse-project-page/)] [[code](https://github.com/miraodasilva/contextual-speech-extraction)] [[presentation](https://youtu.be/UAD1EgmGPbE)] [[bib](/files/bib/cse.bib)]

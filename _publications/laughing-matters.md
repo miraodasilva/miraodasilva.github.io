@@ -5,6 +5,7 @@ permalink: /publications/laughing_matters
 venue: "BMVC"
 authors: "Antoni Bigata Casademunt, <b>Rodrigo Mira</b>, Nikita Drobyshev, Konstantinos Vougioukas, Stavros Petridis, Maja Pantic"
 date: 2023-08-30
+teaser: /files/teaser/laughing-matters.png
 ---
 
 [[project page](https://sites.google.com/view/laughing-matters)] [[paper](https://arxiv.org/abs/2305.08854)] [[code](https://github.com/antonibigata/Laughing-Matters)] [[bib](/files/bib/laughing-matters.bib)]
