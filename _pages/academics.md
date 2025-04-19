@@ -10,6 +10,7 @@ I have served as a reviewer for multiple academic conferences/journals, includin
 - Conference on Computer Vision and Pattern Recognition (CVPR) 
 - Conference on Neural Information Processing Systems (NeurIPS) - [<b> Top Reviewer 2023 </b>](https://neurips.cc/Conferences/2023/ProgramCommittee)
 - International Conference on Learning Representations (ICLR)
+- International Conference on Machine Learning (ICML)
 - International Conference on Computer Vision (ICCV)
 - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - Interspeech
