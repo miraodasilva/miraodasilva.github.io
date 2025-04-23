@@ -19,8 +19,9 @@ I have served as a reviewer for multiple academic conferences/journals, includin
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - International Journal on Computer Vision (IJCV)
-- IEEE Transactions on Image Processing
-- IEEE Transactions on Human-Machine Systems
+- IEEE Transactions on Image Processing (TIP)
+- IEEE Signal Processing Letters (SPL)
+- IEEE Transactions on Human-Machine Systems (THMS)
 
 
 ## Session Chairing
