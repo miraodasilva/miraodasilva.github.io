@@ -12,7 +12,7 @@ redirect_from:
 
 📚 I completed my BSc in Information Systems and Computer Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/), as well as my MSc and PhD in Computing at [Imperial College London](https://www.imperial.ac.uk/). Details are available on the [Education section](/education/).
 
-🖥️ I spent a substantial portion of my PhD interning and working at [Meta](https://ai.meta.com/), where I collaborated with multiple teams and developed my PhD research. I also joined Sony R\&D in Tokyo briefly after completing my PhD, as a research intern, where I worked on video-to-audio generation. Details are available on the [Experience section](/experience/).
+🖥️ I spent a substantial portion of my PhD interning and working at [Meta](https://ai.meta.com/), where I collaborated with multiple teams and developed my PhD research. I also joined Sony R&D in Tokyo briefly after completing my PhD, as a research intern, where I worked on video-to-audio generation. Details are available on the [Experience section](/experience/).
 
 🔬🤖 My research is focused on deep learning applied to audio-visual speech (i.e., faces, lip movements and speech). In particular, I am interested in applying self-supervised learning to learn from unlabelled audio-visual speech. I am also interested and have experience in generative modelling, particularly in generating speech using generative adversarial networks (GANs) and diffusion models. Details are available on the [Publications section](/publications/).
 
