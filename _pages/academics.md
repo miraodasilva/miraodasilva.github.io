@@ -22,6 +22,7 @@ I have served as a reviewer for multiple academic conferences/journals, includin
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Signal Processing Letters (SPL)
 - IEEE Transactions on Human-Machine Systems (THMS)
+- The Journal of the Acoustical Society of America (JASA)
 
 
 ## Session Chairing
