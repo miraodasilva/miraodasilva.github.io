@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, my name is Rodrigo and I'm a Postdoctoral Researcher at [Meta](https://ai.meta.com/) working on new approaches for generative modeling and self-supervised learning on audio-visual speech. Currently, my main project is [Automated Dubbing for Instagrams Reels](https://www.linkedin.com/posts/r-mira_metaconnect-activity-7247958649015300097-V0pD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSp3PQBdN14IwYCrssMeDvL1eKhsWJkjKA), where I work on speech-driven facial animation/lip synchronization. I also spend a lot of my time on papers, about which you can find out more on the [Publications section](/publications/).
+👋 Hi, my name is Rodrigo and I'm a Research Scientist at Google DeepMind in New York City. Before that, I was as a Postdoctoral Researcher at [Meta](https://ai.meta.com/) working on new approaches for generative modeling and self-supervised learning on audio-visual speech. Currently, my main project is [Automated Dubbing for Instagrams Reels](https://www.linkedin.com/posts/r-mira_metaconnect-activity-7247958649015300097-V0pD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSp3PQBdN14IwYCrssMeDvL1eKhsWJkjKA), where I work on speech-driven facial animation/lip synchronization. I also spend a lot of my time on papers, about which you can find out more on the [Publications section](/publications/).
 
 📚 I completed my BSc in Information Systems and Computer Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/), as well as my MSc and PhD in Computing at [Imperial College London](https://www.imperial.ac.uk/). Details are available on the [Education section](/education/).
 

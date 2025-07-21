@@ -5,7 +5,7 @@ type: "Meta (via Magnit)"
 permalink: /experience/researcher
 venue: "Meta"
 startdate: 2023-11-20
-date: 2100-01-01 # magic date that is transformed to "Current"
+date: 2025-06-30
 location: "London, GB"
 ---
 

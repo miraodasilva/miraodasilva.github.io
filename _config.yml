@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Rodrigo Mira"
 title_separator          : "-"
 name                     : &name "Rodrigo Mira"
-description              : &description "Postdoctoral Researcher at Meta"
+description              : &description "Research Scientist at Google DeepMind"
 url                      : "https://miraodasilva.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rodrigo Mira"
   avatar           : "profile.jpeg"
-  bio              : "Postdoctoral Researcher at Meta"
+  bio              : "Research Scientist at Google DeepMind"
   #Hi, I'm a PhD student at Imperial College in the Department of Computing, supervised by Björn Schuller and Maja Pantic. I will be submitting my thesis and finishing my PhD in January 2022.
   location         : "London, GB"
   employer         : Imperial College London
