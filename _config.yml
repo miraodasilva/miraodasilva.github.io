@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Rodrigo Mira"
   avatar           : "profile.jpeg"
-  bio              : "Research Scientist at Google DeepMind"
+  bio              : "Research Scientist"
   #Hi, I'm a PhD student at Imperial College in the Department of Computing, supervised by Björn Schuller and Maja Pantic. I will be submitting my thesis and finishing my PhD in January 2022.
-  location         : "London, GB"
-  employer         : Imperial College London
+  location         : "New York City, NY, USA"
+  employer         : Google DeepMind
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=08YfKjcAAAAJ&hl"
   email            : "rs2517@ic.ac.uk"
