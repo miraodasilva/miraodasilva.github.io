@@ -1,5 +1,5 @@
 ---
-title: "Research Scientist at Google DeepMind"
+title: "Senior Research Scientist at Google DeepMind"
 collection: experience
 type: "Google DeepMind"
 permalink: /experience/gdm-research-scientist
