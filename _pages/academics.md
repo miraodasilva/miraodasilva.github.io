@@ -14,6 +14,7 @@ I have served as a reviewer for multiple academic conferences/journals, includin
 - International Conference on Computer Vision (ICCV)
 - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - Interspeech
+- AAAI Conference on Artificial Intelligence (AAAI)
 - International Joint Conference on Artificial Intelligence (IJCAI)
 - ACM International Conference on Multimodal Interaction (ICMI)
 - IEEE Transactions on Cybernetics
