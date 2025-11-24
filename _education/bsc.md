@@ -15,7 +15,7 @@ Final Grade Average: 18.00 / 20 \\
 ## Details
 Studied at Instituto Superior Técnico (Lisbon, Portugal) from September 2014 to July 2017.
 ## Diplomas of Academic Excellence
-Diplomas of Excellence are designed to recognize exceptional academic performance at Instituto Superior Técnico. I received this award for all three academic years during my BSc.
+Diplomas of Excellence are designed to recognize exceptional academic performance at Instituto Superior Técnico. I received this award for all three academic years during my BSc.\\
 [Results for 2014/2015](https://conselhopedagogico.tecnico.ulisboa.pt/bolsas-e-premios/quadro-e-diplomas-de-merito/quadro-de-merito-academico-20142015-lista-provisoria/)\\
 [Results for 2015/2016](https://conselhopedagogico.tecnico.ulisboa.pt/bolsas-e-premios/quadro-e-diplomas-de-merito/quadro-de-merito-academico-20152016-lista-definitiva/)\\
 [Results for 2016/2017](https://conselhopedagogico.tecnico.ulisboa.pt/bolsas-e-premios/quadro-e-diplomas-de-merito/quadro-de-merito-academico-20162017/)

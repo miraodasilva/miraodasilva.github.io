@@ -9,4 +9,4 @@ date: 2023-06-01
 location: "London, GB"
 ---
 
-I attend and present in a bi-weekly research group with some of my colleagues from Imperial College London. We usually focus on deep learning applied to speech and audio. Some of my presentations (including slides) are available in [the Talks section](/talks/).
+Attended and presented in a bi-weekly research group with some of my colleagues from Imperial College London. We usually focus on deep learning applied to speech and audio. Some of my presentations (including slides) are available in [the Talks section](/talks/).

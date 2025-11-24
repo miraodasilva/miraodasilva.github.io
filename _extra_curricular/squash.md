@@ -9,4 +9,4 @@ date: 2025-06-30
 location: "London, GB"
 ---
 
-I organize a squash club with weekly matches.
+Organize a squash club with weekly matches.
