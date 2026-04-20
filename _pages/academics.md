@@ -12,6 +12,7 @@ I have served as a reviewer for multiple academic conferences/journals, includin
 - International Conference on Learning Representations (ICLR)
 - International Conference on Machine Learning (ICML)
 - International Conference on Computer Vision (ICCV)
+- European Conference on Computer Vision (ECCV)
 - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - Interspeech
 - AAAI Conference on Artificial Intelligence (AAAI)
@@ -21,11 +22,13 @@ I have served as a reviewer for multiple academic conferences/journals, includin
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - International Journal on Computer Vision (IJCV)
 - IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Signal Processing Letters (SPL)
 - IEEE Transactions on Human-Machine Systems (THMS)
 - The Journal of the Acoustical Society of America (JASA)
 - IEEE Transactions on Audio, Speech and Language Processing (TASLPRO)
 - IEEE Internet of Things Journal (IoT-J)
+- IEEE Transactions on Cognitive and Developmental Systems (TCDS)
 
 ## Session Chairing
 I have served as a session chair in the following conferences:
