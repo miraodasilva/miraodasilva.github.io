@@ -29,6 +29,7 @@ I have served as a reviewer for multiple academic conferences/journals, includin
 - IEEE Transactions on Audio, Speech and Language Processing (TASLPRO)
 - IEEE Internet of Things Journal (IoT-J)
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 ## Session Chairing
 I have served as a session chair in the following conferences:

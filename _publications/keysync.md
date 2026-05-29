@@ -2,7 +2,7 @@
 title: "KeySync: A Robust Approach for Leakage-free Lip Synchronization in High Resolution"
 collection: publications
 permalink: /publications/keysync
-venue: "arXiv"
+venue: "Transactions on Machine Learning Research"
 authors: "Antoni Bigata, <b>Rodrigo Mira</b>, Stella Bounareli, Michał Stypułkowski, Konstantinos Vougioukas, Stavros Petridis, Maja Pantic"
 date: 2025-07-01
 teaser: /files/teaser/keysync.png
