@@ -8,5 +8,5 @@ date: 2026-05-21
 location: "New York, NY, USA"
 ---
 
-Joined as one of 3 panelists a discussion about multimodal intelligence, where I talked about some of my recent papers.  \\
+Joined a panel discussion about multimodal intelligence, where I talked about some of my recent papers. \\
 [[event link](https://luma.com/qkr2zd1q)]
