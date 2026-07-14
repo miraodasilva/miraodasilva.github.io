@@ -16,7 +16,7 @@ redirect_from:
 
 🔬🤖 My research is focused on understanding and generating audio-visual speech (i.e., audio and video of people talking), particularly through self-supervised learning and generative methods such as diffusion models. Details are available on the [Publications section](/publications/).
 
-🎓 During my time as a researcher, I've reviewed for many of the leading conferences and journals in the field, including CVPR, NeurIPS (Top Reviewer 2023), ICLR, ICML, TPAMI, and IJCV. I have also served as a session chair in ICASSP 2025, and am one of the main organizers of the [AVGenL workshop](https://avgen123.github.io/iccv25.html) (ECCV 2024 and ICCV 2025). Details are available on the [Academics section](/academics/).
+🎓 During my time as a researcher, I've reviewed for many of the leading conferences and journals in the field, including CVPR, NeurIPS (Top Reviewer 2023), ICLR, ICML, TPAMI, and IJCV. I have also served as a session chair in ICASSP 2025, and am one of the main organizers of the [AVGenL workshop](https://avgen123.github.io/iccv25.html) (ECCV 2024, ICCV 2025, and ECCV 2026). Details are available on the [Academics section](/academics/).
 
 🗣️ I have given live talks about my research in multiple conferences including [CVPR](/talks/wss-2022), [Interspeech](/talks/oral-interspeech-2022), and [ICASSP](/talks/icassp-2020). I also engage with the machine learning online community directly through platforms such as [LinkedIn](https://www.linkedin.com/in/r-mira/), [Twitter](https://twitter.com/RodrigomiraA), and [Reddit](https://www.reddit.com/user/MiraoDaSilva). Details are available on the [Talks](/talks/) and [Online Presence](/online_presence/) sections.
 
