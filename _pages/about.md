@@ -23,3 +23,5 @@ redirect_from:
 🎸🎾 During my free time, I enjoy playing the guitar and bass, and also playing racket sports such as squash, tennis, and pickleball. Details are available on the [Extra-curricular section](/extra_curricular/).
 
 📃 My CV is available on the [CV section](/cv/).
+
+📫 How to reach me: mirarodrigo607(at)gmail(dot)com
