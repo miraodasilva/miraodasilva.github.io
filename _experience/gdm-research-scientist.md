@@ -9,4 +9,4 @@ date: 2100-01-01 # magic date that is transformed to "Current"
 location: "New York City, NY, USA"
 ---
 
-Working on something new.
+Working on [Gemini Omni](https://deepmind.google/models/gemini-omni/).
