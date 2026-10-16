@@ -2,9 +2,9 @@
 title: "Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation"
 collection: publications
 permalink: /publications/lookahead-anchoring
-venue: "arXiv"
+venue: "WACV"
 authors: "Junyoung Seo, <b>Rodrigo Mira</b>, Alexandros Haliassos, Stella Bounareli, Honglie Chen, Linh Tran, Seungryong Kim, Zoe Landgraf, Jie Shen"
-date: 2025-10-27
+date: 2027-01-03
 teaser: /files/teaser/lookahead-anchoring.png
 ---
 
