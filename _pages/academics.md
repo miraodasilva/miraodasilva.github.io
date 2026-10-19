@@ -7,7 +7,7 @@ author_profile: true
 
 ## Reviewing
 I have served as a reviewer for multiple academic conferences/journals, including:
-- Conference on Computer Vision and Pattern Recognition (CVPR)
+- Conference on Computer Vision and Pattern Recognition (CVPR) - [<b> Outstanding Reviewer 2026 </b>](/files/cvpr2026_outstanding_reviewer_certificate.pdf)
 - Conference on Neural Information Processing Systems (NeurIPS) - [<b> Top Reviewer 2023 </b>](https://neurips.cc/Conferences/2023/ProgramCommittee)
 - International Conference on Learning Representations (ICLR)
 - International Conference on Machine Learning (ICML)
